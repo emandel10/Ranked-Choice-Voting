@@ -2,7 +2,7 @@
     Purpose: The pupose of this program is to design an algorithm capable
     of determining the winner of a rank-choice voting election
     Author: Ellis Mandel
-    Email: emandel@bates.edu
+    Email: ellismandel2025@u.northwestern.edu
     Date Last Modified: 10/26/2021
     Extra Credit: random index of lowest value (find_index_of_min)
 '''
